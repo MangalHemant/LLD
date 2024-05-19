@@ -1,3 +1,7 @@
+import Shape.Circle;
+import Shape.Rectangle;
+import Shape.Shape;
+
 public class ShapeFactory {
 
 
